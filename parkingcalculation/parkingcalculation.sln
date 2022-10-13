@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "parkingcalculation", "parkingcalculation\parkingcalculation.vcxproj", "{9F444643-A0AE-48C1-BFE4-6E386FFC6100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F444643-A0AE-48C1-BFE4-6E386FFC6100}.Debug|x64.ActiveCfg = Debug|x64
+		{9F444643-A0AE-48C1-BFE4-6E386FFC6100}.Debug|x64.Build.0 = Debug|x64
+		{9F444643-A0AE-48C1-BFE4-6E386FFC6100}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F444643-A0AE-48C1-BFE4-6E386FFC6100}.Debug|x86.Build.0 = Debug|Win32
+		{9F444643-A0AE-48C1-BFE4-6E386FFC6100}.Release|x64.ActiveCfg = Release|x64
+		{9F444643-A0AE-48C1-BFE4-6E386FFC6100}.Release|x64.Build.0 = Release|x64
+		{9F444643-A0AE-48C1-BFE4-6E386FFC6100}.Release|x86.ActiveCfg = Release|Win32
+		{9F444643-A0AE-48C1-BFE4-6E386FFC6100}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {434AE64A-96A6-49E9-9BFC-315ADE6696B7}
+	EndGlobalSection
+EndGlobal
