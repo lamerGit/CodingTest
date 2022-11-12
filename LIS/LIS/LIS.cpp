@@ -31,7 +31,8 @@ void lis(int num)
 	//해당 숫자가 더 크거나 배열이 비어있다면
 	if (idx == 0 || (idx > 0 && cache[idx - 1] <= num))
 	{
-		cache[idx++] = num;
+		cache[idx] = num;
+		idx++;
 		return;
 	}
 	//증가 부분 수열에 성립하지 않은 숫자라면 삽입할 위치를 찾는다.
